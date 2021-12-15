@@ -1,7 +1,7 @@
 package company;
 
 /**
- * @author 王波
+ * @author id-none
  */
 public class LoudAndRich {
     public int[] loudAndRich(int[][] richer, int[] quiet) {
