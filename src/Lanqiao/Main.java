@@ -1,5 +1,7 @@
 package Lanqiao;
 
+import org.testng.annotations.Test;
+
 class TopVotedCandidate {
     public int[] persons;
     public int[] times;
@@ -52,3 +54,12 @@ class TopVotedCandidate {
   int param_1 = obj.q(t);
  */
 
+/**
+ * @author 王波
+ */
+public class Main {
+    @Test
+    public void hello() {
+        System.out.println("hello");
+    }
+}
